@@ -1,5 +1,5 @@
-AES encryption agorithm implemented in Matlab for a CSE 178 Computer Security and Network Security class.
----------------------------------------------------------------------------------------------------------
+AES encryption agorithm implemented in Matlab for a University of California, Merced CSE 178 Computer Security and Network Security class
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Takes input of a hexadecimal plain text message and a 16 byte hexadecimal key.
 
